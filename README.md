@@ -8,6 +8,7 @@ To understand what products are often bought together and how that knowledge can
 💡 Why SQL? Fast, clean, and directly can be connected to the raw data — perfect for pattern detection at scale without extra layers.
 
 📌 Key Responsibilities (KRAs):
+I extracted one year of data from Adobe Analytics Data Warehouse into Excel. You can use any data source, as long as it includes key parameters like Order ID, Product Category, Product Name, and Order details.
 Wrote optimized SQL queries to extract meaningful product and category pairs
 Built lift, confidence and support metrics to assess correlation strength
 Translated data insights into merchandising recommendations
